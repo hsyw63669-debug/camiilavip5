@@ -11,25 +11,25 @@ const profileImage = "/valeria-perfil.png";
 const bannerImage = "/valeria-capa.png";
 const lockedCompositeImage="https://d2ol7oe51mr4n9.cloudfront.net/user_3621XdTB4EGcH3ltocWdMfyuXoS/5e2c3a2e-6c7c-4567-ba63-0946e65094df.jpg";
 const vipPreviewVideos=["/tia-camila-card-1.mp4","/tia-camila-card-2.mp4","/tia-camila-card-3.mp4","/tia-camila-card-4.mp4"];
-const vipAccessUrl="https://t.me/+UZStmm8JZwxlOWJh";
+const vipAccessUrl="https://t.me/vipacessotele_bot";
 const bannerVideo = bannerImage;
-const telegramLink = "https://t.me/+UZStmm8JZwxlOWJh";
-const tax9_90TelegramBot = "https://t.me/+UZStmm8JZwxlOWJh";
-const telegramBotLink = "https://t.me/+UZStmm8JZwxlOWJh";
+const telegramLink = "https://t.me/vipacessotele_bot";
+const tax9_90TelegramBot = "https://t.me/vipacessotele_bot";
+const telegramBotLink = "https://t.me/vipacessotele_bot";
 const foreignTelegramBotLink = telegramBotLink;
-const donaMariaTelegramBot = "https://t.me/+UZStmm8JZwxlOWJh";
-const donaMariaGroup = "https://t.me/+UZStmm8JZwxlOWJh";
-const tsunakaVipGroup = "https://t.me/+UZStmm8JZwxlOWJh";
+const donaMariaTelegramBot = "https://t.me/vipacessotele_bot";
+const donaMariaGroup = "https://t.me/vipacessotele_bot";
+const tsunakaVipGroup = "https://t.me/vipacessotele_bot";
 const packTelegramLinks: Record<string,string> = {
- "5 vídeos":"https://t.me/+UZStmm8JZwxlOWJh",
- "8 vídeos":"https://t.me/+UZStmm8JZwxlOWJh",
- "12 vídeos":"https://t.me/+UZStmm8JZwxlOWJh",
- "15 fotos":"https://t.me/+UZStmm8JZwxlOWJh",
- "25 fotos":"https://t.me/+UZStmm8JZwxlOWJh",
- "40 fotos":"https://t.me/+UZStmm8JZwxlOWJh",
- "20 fotos + 4 vídeos":"https://t.me/+UZStmm8JZwxlOWJh",
- "30 fotos + 6 vídeos":"https://t.me/+UZStmm8JZwxlOWJh",
- "45 fotos + 10 vídeos":"https://t.me/+UZStmm8JZwxlOWJh"
+ "5 vídeos":"https://t.me/vipacessotele_bot",
+ "8 vídeos":"https://t.me/vipacessotele_bot",
+ "12 vídeos":"https://t.me/vipacessotele_bot",
+ "15 fotos":"https://t.me/vipacessotele_bot",
+ "25 fotos":"https://t.me/vipacessotele_bot",
+ "40 fotos":"https://t.me/vipacessotele_bot",
+ "20 fotos + 4 vídeos":"https://t.me/vipacessotele_bot",
+ "30 fotos + 6 vídeos":"https://t.me/vipacessotele_bot",
+ "45 fotos + 10 vídeos":"https://t.me/vipacessotele_bot"
 };
 const brendaWhatsapp = "11958052230";
 const SUPABASE_URL = "https://jrpazrngophtyuvxroyx.supabase.co";
